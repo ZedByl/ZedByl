@@ -7,7 +7,7 @@ Frontend Developer
 I am passionate about technologies and love to learn new things.
 
 * ✉️  You can contact me at [chetverikovnikita@gmail.com](mailto:chetverikovnikita@gmail.com)
-* 🚀  I'm currently working on [YLab](http://ylab.io/)
+* 🚀  I'm currently working on [RBC](https://rbc.ru/)
 
 ### Skills
 
