@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Nikita+%F0%9F%91%8B;Fullstack+Engineer;Private+AI+for+business" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Nikita;Fullstack+Engineer;Private+AI+for+business" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👋 About me
+## About me
 
 > I build software, and I make AI private.
 
@@ -20,7 +20,7 @@ Fullstack engineer with **5+ years** of commercial development. These days my fo
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Fullstack**
 
@@ -51,7 +51,7 @@ Fullstack engineer with **5+ years** of commercial development. These days my fo
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zedbyl" target="_blank" rel="noreferrer">
